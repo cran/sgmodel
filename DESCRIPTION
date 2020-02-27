@@ -2,7 +2,7 @@ Package: sgmodel
 Type: Package
 Title: Solves a Generic Stochastic Growth Model with a Representative
         Agent
-Version: 0.1.0
+Version: 0.1.1
 Author: Thomas Vigie <vigiethomas@gmail.com>
 Maintainer: Thomas Vigie <vigiethomas@gmail.com>
 Description: It computes the solutions to a generic stochastic growth model for a given set of user supplied parameters. It includes
@@ -16,10 +16,10 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Suggests: knitr, rmarkdown, testthat
-Imports: ggplot2, ramify, Rtauchen, tidyverse
+Imports: ggplot2, ramify, Rtauchen
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-07-06 16:45:14 UTC; thomas
+Packaged: 2020-02-26 22:57:56 UTC; vigie
 Repository: CRAN
-Date/Publication: 2018-07-13 22:10:04 UTC
+Date/Publication: 2020-02-27 12:20:02 UTC

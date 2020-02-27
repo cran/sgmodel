@@ -36,5 +36,4 @@ plot_sgmod(model)
 }
 \references{
 Wickham H (2009), ggplot2: Elegant Graphics for Data Analysis.
-URL \url{http://ggplot2.org}
 }
