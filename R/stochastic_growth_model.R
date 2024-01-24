@@ -3,20 +3,21 @@
 
 
 # Package description ----------------------------
-#' sgmodel: A package for computating the solutions to a generic stochastic growth model.
+#' sgmodel: A package for computing the solutions to a generic stochastic growth model.
 #'
 #' The sgmodel package provides three important functions:
 #' \code{sgmod}, \code{util} and \code{Markovmoments}.
 #'
 #' @section The \code{sgmodel} function:
-#' The \code{sgmodel} function solves a standard stochastic growth model using value function iteration. The stochastic component follows an autoregressive process of order one, and is discretized by a finite state Markov process.
+#' The \code{sgmodel} function solves a standard stochastic growth model using value function iteration. The stochastic component follows an auto regressive process of order one, and is discretized by a finite state Markov process.
 #' @section The \code{util} function:
-#'  It computes values for various uility functions encountered in economic theory.
+#'  It computes values for various utility functions encountered in economic theory.
 #' @section The \code{Markovmoments} function:
 #' It computes the four moments of a finite state Markov chain: expectation, variance, autocovariance and autocorrelation.
 #' @import ggplot2
 #' @docType package
 #' @name package_sgmodel
+#' @aliases sgmodel-package
 NULL
 
 

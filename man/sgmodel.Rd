@@ -71,5 +71,5 @@ Tauchen G (1986), Finite state markov-chain approximations to univariate and vec
 
 Merton R. C (1971), Optimum consumption and portfolio rules in a continuous-time model.
 \emph{Journal of Economic Theory}, \bold{3}(4), 373--413.
-URL \url{http://www.sciencedirect.com/science/article/pii/002205317190038X}
+URL \url{https://www.sciencedirect.com/science/article/pii/002205317190038X}
 }

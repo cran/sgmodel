@@ -2,8 +2,7 @@
 % Please edit documentation in R/stochastic_growth_model.R
 \docType{package}
 \name{package_sgmodel}
-\alias{package_sgmodel}
-\alias{package_sgmodel-package}
+\alias{sgmodel-package}
 \title{sgmodel: A package for computating the solutions to a generic stochastic growth model.}
 \description{
 The sgmodel package provides three important functions:
